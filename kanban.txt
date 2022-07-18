@@ -1,0 +1,29 @@
+
+Finish the last challenges on the Quotes API project
+
+Work on Github profile
+
+http://mystery.knightlab.com/
+
+https://www.codecademy.com/courses/learn-git/articles/project-management-issues-and-projects
+
+Exploring workflows video: https://youtu.be/EwWZbyjDs9c
+
+
+For the home page of my portfolio, the visitor can move a little character around to different locations to see my work.  
+At the arcade, they can see my games.
+At the school, they can see Desk Consultants.  
+Need arrow buttons for mobile devices.
+Also make locations clickable, in case user is annoyed by arrow keys
+
+Playtest management and sign-up app
+
+If I decide to go with the Shopify route:
+php, javascript, jquery.  Coursera and Udemy tutorials for Shopify.
+APIs from Shopify.  GraphQL, Liquid, React, 
+Shopify dev tools and merchant tools.
+Shopify development partner certification.
+
+Pattern Prophecy
+
+

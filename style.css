@@ -1,0 +1,49 @@
+
+
+body {
+    font-family: Tahoma;
+}
+
+img {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+}
+
+p {
+    font-size: 14px;
+}
+
+.header {
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;
+}
+
+.project {
+    text-align: center;
+    width: 40%;
+    border: 2px black solid;
+    padding: 20px;
+}
