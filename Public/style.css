@@ -35,15 +35,37 @@ p {
     font-size: 14px;
 }
 
+li {
+    text-align: left;
+    font-size: 18px;
+}
+
 .header {
     background-color: lightseagreen;
     display: flex;
     align-items: center;
 }
 
-.project {
+.table {
+    display: table;
+    align-items: center;
+    justify-content: space-between;
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+.start {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+
+}
+
+.section {
+    max-width: 40%;
+    margin: 20px;
     text-align: center;
-    width: 40%;
     border: 2px black solid;
     padding: 20px;
+    display: table-cell;
 }
