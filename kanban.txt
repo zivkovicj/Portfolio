@@ -1,4 +1,12 @@
 
+
+Look in to the networking thing and the other features that I paid for through Red Rocket
+
+Look into Hired.  Is it a good place to search for jobs.
+
+Resume for Daz Productions did not include a link to the web portfolio.  If I haven't heard from them by 8/2, apply again, and make sure to include the portfolio
+Reapply to Xima software directly through their website.
+
 Add a picture of me and the family?
 
 Update profile for Indeed
@@ -13,6 +21,21 @@ Add front-end Maiden app?  Look for another back-end project to add?
 
 
 
+
+Hello,
+
+My name is Jeff Zivkovic.  My former students call me Mr. Z.  
+
+After teaching coding to middle school students for several years, I've realized that I enjoy coding enough to want to do it full time.  
+
+One webapp that I've launched and maintained was successfully used by 20+ teachers and 1000+ students to help differentiate their learning and better meet individual needs.  
+
+Now I'm ready to be a Ximite!
+
+
+
+
+https://www.robinwieruch.de/postgresql-express-node-rest-api/
 
 Finish the last challenges on the Quotes API project
 
